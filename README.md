@@ -1,2 +1,1 @@
-# xinfone.gitee.io
-website
+# Xinfone Website Powered by Github
